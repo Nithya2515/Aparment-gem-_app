@@ -1,24 +1,9 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Gems Used
 
-Things you may want to cover:
+*Apartment for impliment the multi-tenancy
 
-* Ruby version
+*Active storage for File or image upload
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+*Will-Paginate for Pagination.
